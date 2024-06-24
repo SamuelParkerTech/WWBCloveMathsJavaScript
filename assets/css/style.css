@@ -250,3 +250,22 @@ body {
     }
 
 }
+
+@media (max-width: 990px) {
+    .game-area {
+        height: 70vh;
+    }
+
+    .controls-area {
+        width: 75%;
+        margin: 10px auto;
+    }
+
+    .btn--big {
+        margin: 5px 5px;
+    }
+    .question-area {
+        padding: 10px 0;
+    }
+
+}
