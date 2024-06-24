@@ -6,7 +6,8 @@ Welcome Samuel Parker,
 This maths game is used to teach the basics of JavaScript and the DOM.
 
 ## REQUIRED (TESTED):
-Add a division game that requires integers as answers
+Add a division game that requires integers as answers.
+Division game added and has integers. 
 
 ## BONUS (NOT TESTED):
 
